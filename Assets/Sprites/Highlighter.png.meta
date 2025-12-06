@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 345e6c291baba6b4cba69184d271983f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Highlighter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9540
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce4c66ea0f55fb47a2037d33df16cdd
+      internalID: 1101210099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_1
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 9540
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3674688290d27b04a8ab2fb10f04d5e8
+      internalID: -471219588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_2
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 9540
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7180127a14dc3064b999197a0dfaef9d
+      internalID: -655128715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_3
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 9540
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbcc4361d5e7504c944c28057fb1efa
+      internalID: -1817133093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_4
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 9540
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8035c5d16c556e49a76c55a6817eeec
+      internalID: -56094000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8480
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601f96813545804786f0c45e90387a9
+      internalID: -1862420170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_6
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 8480
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418877803ec74274f8e75f2141f77363
+      internalID: 106842416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_7
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 8480
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786329485e79c484a919ad261d187599
+      internalID: 1119150557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_8
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 8480
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a2369735297147bee5a1499fbd8ce
+      internalID: -318935790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_9
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 8480
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89de426217a9254e94332cbbfd3b50a
+      internalID: -808807879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7420
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a71088708bec14cba2f84340cc9fa2
+      internalID: -1088763355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_11
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 7420
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe04369ae9c014383be99930fd4a5c
+      internalID: -1748906273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_12
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 7420
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b2796338038c45b8ea07c8fcb8238
+      internalID: -231400078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_13
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 7420
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945945ec2450b440a8f0ad2701753a3
+      internalID: 506527984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_14
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 7420
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0e5fcab28c5d4881f6ac5a3d798a1
+      internalID: -1630080747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6360
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c3120a17ce5d141a2f336d286e7670
+      internalID: -1329630567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_16
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 6360
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f80276214c17f4f88773459bfcf3dd
+      internalID: -839231410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_17
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 6360
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca77c37e28b8db4aa6f081df95e1521
+      internalID: 56860189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_18
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 6360
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621087ea7ffee8547aa2bbd8f0c70530
+      internalID: -2132756491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_19
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 6360
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7950e4f74ebffb449871843aaf9d63b7
+      internalID: 162643448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5300
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893e13d74b08a884d8d9ec1a689211e7
+      internalID: 899993307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_21
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 5300
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe93b5bbe3b981468159b0f7fa4b60a
+      internalID: 170221874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_22
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 5300
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6799a0f21d6e6514591761a20aca403e
+      internalID: -1745122722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_23
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 5300
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4010fb4d4e63ac4baab4d6c9856a043
+      internalID: 1040191024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_24
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 5300
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fa5876e7315214088ddb780619a6d0
+      internalID: -2027969669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4240
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b39aa797de8e40a3a40cf9abd9619
+      internalID: 245033556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 4240
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6461f8604c78324cb03e4f9538a5293
+      internalID: -741414533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_27
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 4240
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822facb846b36604398d10e408644894
+      internalID: 1068131875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_28
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 4240
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd93a734bde334f8f79b8efd2dc22c
+      internalID: 1456218568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_29
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 4240
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbb0fa4b5fbf154998df45dbd70def2
+      internalID: -304962506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3180
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b2465e6d9a0f34797c8a1d25efdb80
+      internalID: 1049224286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_31
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3180
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee83774409310458447490c99b51fa
+      internalID: -1892983427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_32
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 3180
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d61f61dc4a2844969434aed7777e8
+      internalID: -307041396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_33
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3180
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bed1b2c3af50e94d82a1ce7c8f9bdb7
+      internalID: 867024439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_34
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 3180
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1f24a98015b74d82f448b97e59e73
+      internalID: -1995415710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af065e7215e9874895c981e64c0980f
+      internalID: 2145387169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_36
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2120
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d5919054982964a8243d1b54c0096c
+      internalID: -955768452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_37
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2120
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b798e84d03e22745a2682a8ccd548b5
+      internalID: 1134375257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_38
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2120
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b0293564bdd0e44831bd2f08aeef46
+      internalID: -2027851538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_39
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 2120
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631c1c9831cfa84eacca7451ca17461
+      internalID: -1607860618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f602be6ed07d4f84678f49299a3d5
+      internalID: -904568193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_41
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1060
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab5455333cfcd4a8f3507d16b6bed5
+      internalID: 1262550598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_42
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1060
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51e06d74c1af094a8337ede82bcb201
+      internalID: 2014709381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_43
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1060
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b54e222242f44fa1da1d51254d735
+      internalID: 2139254898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_44
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 1060
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce44f59633019458cb638a6b6c4e27
+      internalID: -1326713076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b13cbaced9886847a19b5dea4e7f498
+      internalID: -1255007535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_46
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7deac3c3d3d38745890c08e5a7d3d44
+      internalID: 388195053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Highlighter_47
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 1060
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa7f6dd0d3c564288938bfc3f94b46
+      internalID: -207200737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Highlighter_0: 1101210099
+      Highlighter_1: -471219588
+      Highlighter_10: -1088763355
+      Highlighter_11: -1748906273
+      Highlighter_12: -231400078
+      Highlighter_13: 506527984
+      Highlighter_14: -1630080747
+      Highlighter_15: -1329630567
+      Highlighter_16: -839231410
+      Highlighter_17: 56860189
+      Highlighter_18: -2132756491
+      Highlighter_19: 162643448
+      Highlighter_2: -655128715
+      Highlighter_20: 899993307
+      Highlighter_21: 170221874
+      Highlighter_22: -1745122722
+      Highlighter_23: 1040191024
+      Highlighter_24: -2027969669
+      Highlighter_25: 245033556
+      Highlighter_26: -741414533
+      Highlighter_27: 1068131875
+      Highlighter_28: 1456218568
+      Highlighter_29: -304962506
+      Highlighter_3: -1817133093
+      Highlighter_30: 1049224286
+      Highlighter_31: -1892983427
+      Highlighter_32: -307041396
+      Highlighter_33: 867024439
+      Highlighter_34: -1995415710
+      Highlighter_35: 2145387169
+      Highlighter_36: -955768452
+      Highlighter_37: 1134375257
+      Highlighter_38: -2027851538
+      Highlighter_39: -1607860618
+      Highlighter_4: -56094000
+      Highlighter_40: -904568193
+      Highlighter_41: 1262550598
+      Highlighter_42: 2014709381
+      Highlighter_43: 2139254898
+      Highlighter_44: -1326713076
+      Highlighter_45: -1255007535
+      Highlighter_46: 388195053
+      Highlighter_47: -207200737
+      Highlighter_5: -1862420170
+      Highlighter_6: 106842416
+      Highlighter_7: 1119150557
+      Highlighter_8: -318935790
+      Highlighter_9: -808807879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
